@@ -6,4 +6,4 @@
 #### 3.c Al ejecutar el codigo no me genera el resultado esperado ya que el puntero del printf nunca fue definido/asignado, entonces la funcion nos devuelve un puntero aleatorio
 #### 5.b Esto funciona porque el gcc detecta una declaracion implicita de printf, entonces, al estar declarado el printf, pero sin saber que procedimiento seguir, el compilador recomienda incluir la biblioteca "stdio.h" para compilar el codigo y linkea el built-in del printf para que nuestro ejecutable funcione
 #### 6.c Si se elimina algun argumento, el comportamiento del programa seria como el de hello5, mientras que si se agregan argumentos funcionaria como se espera. En ambos casos se generan advertencias de declaraciones implicitas
-#### 6.d 
+#### 6.d La ventaja de incluir el contrato en los clientes es que les brindamos un "manual de usuario" de como utilizar las funciones. Mientras que al incluirlo en el proveedor podemos verificar que entregamos el producto correcto
