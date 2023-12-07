@@ -1,0 +1,25 @@
+Operador:
+  +
+  -
+  *
+  /
+  %
+
+dup
+
+swap
+
+clear
+
+top
+
+Número
+
+NotPol:
+  NotPol NotPol Operador
+  NotPol dup Operador
+  NotPol NotPol swap Operador
+  NotPol top
+  NotPol clear NotPol
+  NotPol NotPol clear NotPol
+  Número

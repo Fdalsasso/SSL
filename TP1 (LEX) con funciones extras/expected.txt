@@ -1,0 +1,19 @@
+	2
+	6
+	-4
+	-9
+	0
+	4
+	45
+	-3
+	-4
+	10
+	25
+	9
+	9
+	Top of the stack is: 5
+	10
+	Top of the stack is: 6
+	11
+	Top of the stack is: 10
+	10
