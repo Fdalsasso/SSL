@@ -7,3 +7,7 @@
 #### 5.b Esto funciona porque el gcc detecta una declaracion implicita de printf, entonces, al estar declarado el printf, pero sin saber que procedimiento seguir, el compilador recomienda incluir la biblioteca "stdio.h" para compilar el codigo y linkea el built-in del printf para que nuestro ejecutable funcione
 #### 6.c Si se elimina algun argumento, el comportamiento del programa seria como el de hello5, mientras que si se agregan argumentos funcionaria como se espera. En ambos casos se generan advertencias de declaraciones implicitas
 #### 6.d La ventaja de incluir el contrato en los clientes es que les brindamos un "manual de usuario" de como utilizar las funciones. Mientras que al incluirlo en el proveedor podemos verificar que entregamos el producto correcto
+
+Informacion del trabajo:
+
+https://josemariasola.github.io/ssl/assignments/2021/Ssl%20Assignments.pdf#page=27
